@@ -22,6 +22,9 @@ public class FormatterCurrency {
         System.out.println("China: " + ch);
         System.out.println("France: " + fr);
 
+        System.out.println("Hello");
+        System.out.println("Are u sure");
+
 
     }
 }
